@@ -6,3 +6,7 @@ __pycache__/
 
 # Outputs
 reports/
+
+# local data link
+/data/
+
