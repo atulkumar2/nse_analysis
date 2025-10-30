@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+nseoptions.egg-info/PKG-INFO
+nseoptions.egg-info/SOURCES.txt
+nseoptions.egg-info/dependency_links.txt
+nseoptions.egg-info/requires.txt
+nseoptions.egg-info/top_level.txt
